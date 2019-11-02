@@ -1,0 +1,19 @@
+{
+  "appKey": "xhzoIJVmYzgcQueFFGCs9GwDwtLr7Jp3",
+  "appSecret": "KP96kxMfp9pBZzObdGKGdzEXI7BRVlFO",
+  "projectId": 68,
+  "id": 182,
+  "name": "DM-test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "测试",
+  "git": {
+    "url": "https://github.com/twomiya/test-dm.git",
+    "isPrivate": 0,
+    "username": "twomiya",
+    "password": "19920104WLJwlj"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
